@@ -1,4 +1,4 @@
-### Hi there 👋 i'm
+### Hi there 👋 i'm Алина
 ![Алина](https://github.com/alinali10/alinali10/blob/main/assets/cat-kitty.gif)
 <!--
 **alinali10/alinali10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
